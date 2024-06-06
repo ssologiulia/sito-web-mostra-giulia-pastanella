@@ -1,0 +1,159 @@
+
+*{
+    background-color: black;
+}
+
+body {
+    margin: 0;
+    background-color: black;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, ol {
+    color: white;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+   }
+   
+   header nav ul {
+       list-style: none;
+       display: flex;
+       gap: 24px;
+   }
+   
+   header a {
+     color: white;
+     text-decoration: none;
+   }
+   
+   header a:hover {
+       color: white;
+       text-decoration: underline;
+     }
+   
+
+
+     .info-ut{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        justify-content: center;
+        align-items: start;
+        margin: 5%;
+     }
+
+     .info-ut-text{
+        max-width: 1100px;
+     }
+
+     .info-ut-text h1 {
+        color: #7e1fb9;
+     }
+
+
+     .info-ut-text h2{
+        color: #BB9714;
+     }
+
+     .info-ut-text{
+        color: white;
+     }
+
+     .testo4{
+        max-width: 1100px;
+     }
+
+
+     .testo4 h1 {
+        color: #7e1fb9;
+     }
+
+     .testo4 p{
+        color: white;
+     }
+
+
+     .info-ut-2{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        justify-content: center;
+        align-items: start;
+        margin: 5%;
+     }
+
+     .info-ut-2-text{
+        max-width: 1100px;
+     }
+
+     .info-ut-2-text h1 {
+        color: #7e1fb9;
+     }
+
+
+     .info-ut-2-text h2{
+        color: #BB9714;
+     }
+
+     .info-ut-2-text{
+        color: white;
+     }
+
+
+
+
+
+     .tit-aj{
+        padding: 5%;
+     }
+
+     .tit-aj h1{
+        color: #BB9714;
+     }
+
+     .galleri-aj{
+        display: flex;
+        padding-left: 5%;
+        padding-right: 5%;
+     }
+
+     .text1-aj{
+        width: 50%;
+     }
+
+     .text1-aj img{
+        max-width: 100%;
+        width: 50%;
+     }
+
+     .img-gal{
+        width: 50%;
+     }
+
+     .gal-img1{
+        display: flex;
+     }
+
+     .gal-img1 img{
+        width: 50%;
+        max-width: 100%;
+        padding: 5%;
+     }
+
+
+     footer {
+        margin: 5%;
+        border-top: 1px solid #ccc;
+      }
+    
+      .footer-content{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        margin-top: 2%;
+        font-size: 14px;
+      }
