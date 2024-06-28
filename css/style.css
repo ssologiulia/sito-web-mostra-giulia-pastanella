@@ -74,7 +74,7 @@ font-size: 40px;
     padding: 5%;
 }
 .testo1 {
-    width: 100%;
+    max-width: 600px;
     align-items: center;
     justify-content: center;
     font-size: 16px;
@@ -99,7 +99,8 @@ font-size: 40px;
 }
 
 .text2-content{
-    color: white;
+    max-width: 600px;
+    color: rgb(255, 255, 255);
     width: 100%;
     font-size: 15px;
     font-family: "Amiko", sans-serif ;

@@ -47,7 +47,7 @@ header {
      }
 
      .info-ut-text{
-        max-width: 1100px;
+      max-width: 700px;
      }
 
      .info-ut-text h1 {
@@ -64,7 +64,7 @@ header {
      }
 
      .testo4{
-        max-width: 1100px;
+        max-width: 600px;
      }
 
 
@@ -73,6 +73,7 @@ header {
      }
 
      .testo4 p{
+      max-width: 800px;
         color: white;
      }
 
@@ -87,7 +88,7 @@ header {
      }
 
      .info-ut-2-text{
-        max-width: 1100px;
+        max-width: 800px;
      }
 
      .info-ut-2-text h1 {
@@ -100,6 +101,7 @@ header {
      }
 
      .info-ut-2-text{
+      max-width: 800px;
         color: white;
      }
 
@@ -122,7 +124,7 @@ header {
      }
 
      .text1-aj{
-        width: 50%;
+        max-width: 500px;
      }
 
      .text1-aj img{
@@ -140,7 +142,6 @@ header {
 
      .gal-img1 img{
         width: 50%;
-        max-width: 100%;
         padding: 5%;
      }
 
