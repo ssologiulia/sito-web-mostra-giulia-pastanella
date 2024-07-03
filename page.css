@@ -16,7 +16,8 @@ h1, h2, h3, h4, h5, h6, p, ul, ol {
 header {
     display: flex;
     justify-content: space-between;
-    padding: 16px;
+    padding: 12px;
+    font-family: "Abril Fatface", serif;
    }
    
    header nav ul {
@@ -52,15 +53,19 @@ header {
 
      .info-ut-text h1 {
         color: #7e1fb9;
+        font-family: "Abril Fatface", serif;
      }
 
 
      .info-ut-text h2{
         color: #BB9714;
+        font-family: "Amiko", sans-serif ;
      }
 
      .info-ut-text{
         color: white;
+        font-family: "Amiko", sans-serif ;
+        font-size: 15px;
      }
 
      .testo4{
@@ -70,11 +75,14 @@ header {
 
      .testo4 h1 {
         color: #7e1fb9;
+        font-family: "Abril Fatface", serif;
      }
 
      .testo4 p{
       max-width: 800px;
         color: white;
+        font-family: "Amiko", sans-serif ;
+        font-size: 15px;
      }
 
 
@@ -93,16 +101,20 @@ header {
 
      .info-ut-2-text h1 {
         color: #7e1fb9;
+        font-family: "Abril Fatface", serif;
      }
 
 
      .info-ut-2-text h2{
         color: #BB9714;
+        font-family: "Amiko", sans-serif ;
      }
 
      .info-ut-2-text{
       max-width: 800px;
         color: white;
+        font-family: "Amiko", sans-serif ;
+        font-size: 15px;
      }
 
 
@@ -115,16 +127,21 @@ header {
 
      .tit-aj h1{
         color: #BB9714;
+        font-family: "Abril Fatface", serif;
+        
      }
 
      .galleri-aj{
         display: flex;
         padding-left: 5%;
         padding-right: 5%;
+        font-family: "Amiko", sans-serif ;
      }
 
      .text1-aj{
         max-width: 500px;
+        font-family: "Amiko", sans-serif ;
+        font-size: 15px;
      }
 
      .text1-aj img{
@@ -157,4 +174,5 @@ header {
         justify-content: space-between;
         margin-top: 2%;
         font-size: 14px;
+        font-family: "Abril Fatface", serif;
       }

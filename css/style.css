@@ -199,63 +199,6 @@ font-size: 40px;
     font-size: 18px;
 }
 
-
-
-.AJ1 {
- position: absolute;
-}
-
-.AJ1 h1 {
-    color: #BB9714;
-    font-family: "Abril Fatface", serif;
-    font-size: 30px;
-}
-
-.AJ1 img {
-    height: 20%;
-    width: 20%;
-    padding-top: 20px;
-}
-.Adrian-Johnson{
-    width: 100%;
-    height: 100vh;
-    padding: 5% 5%;
-}
-.AJ1 p {
-    color: white;
-    font-size: 15px;
-    padding-top: 20px;
-    width: 60%;
-    font-family: "Amiko", sans-serif ;
-}
-
-.AJ2 h2 {
-position: absolute;
-}
-
-.AJ2 h2 {
-    color: #ffffff;
-    font-family: "Amiko", sans-serif ;
-    font-size: 30px;
-    position: relative;
-    bottom: 545px;
-    left: 1000px;
-}
-
-.item {
- position: absolute;
-}
-
-.item {
-display: grid;
-grid-template-columns: repeat(2, 250px);
-grid-template-rows: repeat(2, 250px);
-gap: 10px;
-position: relative;
-top: 100px;
-left: 850px;
-}
-
 footer {
     margin: 5%;
     border-top: 1px solid #ccc;
@@ -267,4 +210,5 @@ footer {
     justify-content: space-between;
     margin-top: 2%;
     font-size: 14px;
+    font-family: "Abril Fatface", serif;
   }
